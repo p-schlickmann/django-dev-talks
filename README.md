@@ -8,6 +8,6 @@ Sample Django project to practice whatever topic you'd like.
 3. Open a code editor, Pycharm is STRONGLY recommended.
 
 ## Useful commands
-1. `python managew.py runserver` - self explanatory.
+1. `python manage.py runserver` - self explanatory.
 2. `python manage.py shell` - loads django environment on a shell. Useful for testing small parts of your code.
 3. `python manage.py help` - lists all possible commands.
